@@ -3,7 +3,6 @@ package goexcel
 import (
 	"fmt"
 	"github.com/Pallinder/go-randomdata"
-	"github.com/spf13/viper"
 	"testing"
 )
 
@@ -43,5 +42,5 @@ func TestNewFile(t *testing.T) {
 }
 
 func Test(t *testing.T) {
-	viper.Unmarshal(nil)
+	//viper.Unmarshal(nil)
 }
