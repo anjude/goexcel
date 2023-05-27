@@ -5,6 +5,10 @@
 - 基于excelize v2，完全兼容原生函数
 - 通过tag设置header，方便快捷
 - 多sheet导出
+### 安装
+```shell
+go get github.com/anjude/goexcel
+```
 ### 使用示例
 ```GO
 ```
